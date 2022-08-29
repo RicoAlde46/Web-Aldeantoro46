@@ -1,4 +1,4 @@
 Web Aldeantoro46
 -Konsisten untuk mengerjakan tugas kuliah
 -Membuat platfrom untuk pengelolaan tugas kuliah
--Membuat CSS Dasar
+-Membuat HTML Dasar
