@@ -2,3 +2,9 @@ Web Aldeantoro46
 -Konsisten untuk mengerjakan tugas kuliah
 -Membuat platfrom untuk pengelolaan tugas kuliah
 -Membuat HTML Dasar
+- CSS Dasar
+- Java Script
+- PHP
+- Konsep MVC
+- Framework MVC (Laravel)
+- RestFull API
