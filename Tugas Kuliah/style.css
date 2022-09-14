@@ -1,0 +1,31 @@
+/* .jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#proyek {
+  background-color: #e2edff;
+} */
+
+section {
+  padding-top: 5rem;
+}
+h2 {
+  color: white;
+  background-color: red;
+  padding: 3px;
+}
+p {
+  color: yellowgreen;
+}
+html {
+  background-color: black;
+  /* color: yellow; */
+  font-style: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: black;
+  color: yellow;
+}
