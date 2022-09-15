@@ -38,3 +38,9 @@ h2 {
 .button:hover {
   background-color: white;
 }
+.a {
+  color: white;
+}
+.a :hover {
+  color: green;
+}
