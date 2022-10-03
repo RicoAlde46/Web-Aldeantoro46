@@ -385,7 +385,7 @@ p6.addEventListener("click", function () {
   ul.appendChild(liBaru);
 });
 
-//// UNTUK MENGAKTIFKAN ONCLICK BAGIAN PARAGRAF
+// // UNTUK MENGAKTIFKAN ONCLICK BAGIAN PARAGRAF
 // const p5 = document.querySelector(".p5");
 // function ubahWarnaP4() {
 //   p4.style.backgroundColor = "black";
