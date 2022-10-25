@@ -1,0 +1,83 @@
+section {
+  padding-top: 5rem;
+}
+h2 {
+  background-color: #0d6efd;
+  padding: 3px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #ffffff;
+  color: #000000;
+  transition: 0.5s;
+}
+.jumbotron {
+  padding-top: 6rem;
+}
+.card-text {
+  background-color: #000000;
+  color: yellow;
+}
+.container {
+  margin: 10px auto;
+  overflow: auto;
+  width: 200;
+}
+
+.thumb {
+  width: auto;
+  float: left;
+  border: white solid 2px;
+  box-sizing: border-box;
+}
+.thumb:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+.fade {
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+}
+.active {
+  opacity: 0.5;
+}
+
+input[type="radio"] {
+  position: relative;
+  width: 40px;
+  height: 20px;
+  appearance: none;
+  background-color: #06ff7e;
+  outline: none;
+  border-radius: 10px;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+input[type="radio"] :checked {
+  background-color: #0a19e9;
+}
+input[type="radio"] ::before {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  top: 2px;
+  left: 2px;
+  transition: 0.5s ease;
+}
+input[type="radio"] :checked ::before {
+  transform: translateX(20px);
+}
+.dark {
+  background-color: #000000;
+  color: yellow;
+}
