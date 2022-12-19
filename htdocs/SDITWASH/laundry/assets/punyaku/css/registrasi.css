@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+
+* {
+	font-family: "Poppins", sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	border: none;
+	text-decoration: none;
+}
+.login-box-msg{
+	display: flex;
+	flex-direction: column;
+	font-size: 2rem;
+}
+.action {
+	justify-content: space-evenly;
+}
+.card {
+	border-radius: 30px;
+}
+.input-group{
+	padding: 0.2rem;
+}
+.input-group .form-control{
+	border-radius: 14px;
+}
+.gender br{
+	margin: 0.2rem 0 0 0 ;
+}
+.gender .perempuan{
+	margin: 0 0 0 5rem;
+}
+.brand{
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+.btn{
+	border-radius: 15px;
+}
+	
